@@ -1,8 +1,8 @@
 module.exports = {
-  title: '鄭聖文的個人頁面',
-  description: 'test',
-  base: '/my-page/',
-  repo: 'https://github.com/shengwen1997/my-page',
+  title: 'Tei Seibun',
+  description: 'page of Tei Seibun',
+  base: '/page/',
+  repo: 'https://github.com/teiseibun/page',
   plugins: [
     'latex'
   ],
@@ -10,10 +10,11 @@ module.exports = {
     sidebarDepth: 0,
     sidebar: [
       ['/', 'About me'],
-      ],
+    ],
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Github', link: 'https://github.com/shengwen1997' }
+      { text: 'Github', link: 'https://github.com/teiseibun' }
     ]
   }
 }
+

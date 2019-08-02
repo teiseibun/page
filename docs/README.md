@@ -1,27 +1,28 @@
-## Profile
+<b><font size=5>Cheng, Sheng-Wen (Chinese)</font></b>
 
-Cheng, Sheng-Wen (Chinese)
-Tei Seibun (Japanese)
+<b><font size=5>Tei Seibun (Japanese)</font></b>
+
+### <font color="darkblue">Contact</font>
 
 E-mail: teiseibun.tw@gmail.com
 
-## Education
+### <font color="darkblue">Education</font>
 
 * M.Eng., Graduate Degree Program of Robotics, National Chiao Tung University (2019/9~)
 
 * B.Eng. in Computer Science and Information Engineering, Providence University (2015/6~2019/9)
 
-## Research Interest
+### <font color="darkblue"> Research Interest</font>
 
 1. Unmanned Aerial Vehicle
 2. Embedded System
 3. Robotic Vision
 
-## Language Ability
+### <font color="darkblue"> Language</font>
 
 Chinese (Native), English, Japanese, German
 
-## Publications
+### <font color="darkblue"> Publications</font>
 
 1. Cheng Sheng-Wen, Wang S., Chen P., Hsu K., He C., Huang C. Puyuma: Linux-
 based RTOS Experimental Platform for Constructing Self-Driving Miniature
