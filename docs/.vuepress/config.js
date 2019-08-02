@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Tei Seibun',
+  title: '',
   description: 'page of Tei Seibun',
   base: '/page/',
   repo: 'https://github.com/teiseibun/page',
