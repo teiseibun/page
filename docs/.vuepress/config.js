@@ -7,12 +7,13 @@ module.exports = {
     'latex'
   ],
   themeConfig: {
-    sidebarDepth: 0,
+  search: false,
+  sidebarDepth: 0,
     sidebar: [
       ['/', 'About me'],
     ],
+    sidebar: false,
     nav: [
-      { text: 'Home', link: '/' },
       { text: 'Github', link: 'https://github.com/teiseibun' }
     ]
   }
