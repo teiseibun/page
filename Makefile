@@ -10,7 +10,7 @@ rm_branch:
 	git branch -D gh-pages
 
 create_branch:
-	git checkout gh-pages
+	git branch gh-pages
 
 deploy:
 	mv docs/.vuepress/dist/* ./
